@@ -1,0 +1,11 @@
+@extends('layout')
+@section('content')
+    @include('partials.home')
+    @include('partials.services')
+    @include('partials.portfolio')
+    @include('partials.pricing')
+    @include('partials.about')
+    @include('partials.contact')
+    @include('partials.whastapp')
+    @include('partials.footer')
+@endsection
