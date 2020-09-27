@@ -1,4 +1,4 @@
-<div class="site-section cta-big-image" id="about-section">
+<div class="site-section cta-big-image" id="conocenos">
     <div class="container">
     <div class="row mb-5">
         <div class="col-12 text-center" data-aos="fade">

@@ -1,7 +1,7 @@
 
 
 
-<section class="site-section border-bottom bg-light" id="services-section">
+<section class="site-section border-bottom bg-light" id="servicios">
   <div class="container">
     <div class="row mb-5">
       <div class="col-12 text-center" data-aos="fade">

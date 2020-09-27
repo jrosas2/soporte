@@ -1,7 +1,7 @@
 
 
 
-<section class="site-section bg-light" id="pricing-section">
+<section class="site-section bg-light" id="precios">
     <div class="container">
         <div class="row mb-5">
             <div class="col-12 text-center" data-aos="fade-up">
@@ -162,7 +162,7 @@
             </div>
         </div>
 
-        <div class="row site-section" id="faq-section">
+        <div class="row site-section" id="faq">
             <div class="col-12 text-center" data-aos="fade">
                 <h2 class="section-title">Preguntas Frecuentes</h2>
             </div>

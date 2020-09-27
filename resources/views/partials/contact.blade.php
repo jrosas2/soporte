@@ -1,4 +1,4 @@
-<section class="site-section bg-light" id="contact-section" data-aos="fade">
+<section class="site-section bg-light" id="contacto" data-aos="fade">
     <div class="container">
         <div class="row mb-5">
             <div class="col-12 text-center">
